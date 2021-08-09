@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Enter the First Number");
         num1=input.nextFloat();
         System.out.println("Enter the Second Number");
-        num2=input.nextFloat();
+        num2=input.nextint();
         System.out.println("Enter one of the Operator (+,_,*,/)");
         operator=(input.next()).charAt(0);
         
